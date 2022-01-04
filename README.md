@@ -8,6 +8,10 @@ A lightweight DIY alternative to [LinkTree](https://linktr.ee) or [Many.Link](ht
 ![Dark Mode](/images/dark.png)
 ![Light Mode](/images/light.png)
 
+## Demo
+
+[Dark Mode Link](https://one-link-rust.vercel.app/)
+
 ## Features
 
 - Light/Dark mode options.
