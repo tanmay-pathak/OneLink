@@ -25,12 +25,14 @@ A lightweight DIY alternative to [LinkTree](https://linktr.ee) or [Many.Link](ht
 - Add your links in `/pages/index.js`.
 - Remove unwanted links from `/pages/index.js`.
 - Choose Dark or Light mode by keeping `skeleton-dark.css` or `skeleton-light.css` in `/pages/_app.js`.
+- Enter your Google Measurement ID in `.env.local`.
 
 ## Additions to the original project
 
 - Added favicons.
 - Added a Dockerfile.
 - Implemented in Next.JS.
+- Added Google Analytics Support
 
 ## Deployment
 
