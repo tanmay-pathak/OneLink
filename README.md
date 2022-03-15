@@ -10,7 +10,7 @@ A lightweight DIY alternative to [LinkTree](https://linktr.ee) or [Many.Link](ht
 
 ## Demo
 
-[Dark Mode Link](https://one-link-rust.vercel.app/)
+[Link](https://one-link-rust.vercel.app/)
 
 ## Features
 
