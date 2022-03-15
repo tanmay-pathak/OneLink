@@ -1,8 +1,14 @@
 import "../styles/brands.css";
 import "../styles/normalize.css";
 import Script from "next/script";
-import "../styles/skeleton-dark.css";
-// import "../styles/skeleton-light.css";
+
+/*
+ * Themes:
+ * Auto: styles/skeleton-auto.css
+ * Light: styles/skeleton-light.css
+ * Dark: styles/skeleton-dark.css
+ */
+import "../styles/skeleton-auto.css";
 
 function MyApp({ Component, pageProps }) {
   return (
